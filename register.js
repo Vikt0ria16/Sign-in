@@ -20,7 +20,6 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 
-
     document.addEventListener("DOMContentLoaded", function() {
         document.querySelector("form").addEventListener("reset", function() {
             var inputs = document.querySelectorAll("input");
